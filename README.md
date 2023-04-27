@@ -29,17 +29,17 @@ The internship assignment is to create a form for acccepting  data from user and
  ### screenshots
  #### Form 
  
- ![image](https://user-images.githubusercontent.com/115863529/232519349-cb7e62a0-aef7-4e34-9a04-3de692310bd3.png)
+ ![Screenshot (68)](https://user-images.githubusercontent.com/122116557/234929926-b9827ce6-7f2a-4fb5-a8c9-f2e2cfff9f36.png)
  
 #### Entering Id
 
   1 .If Id presents it populates the data and enables the update and reset button
   
-![image](https://user-images.githubusercontent.com/115863529/232520068-13d5de40-1538-4e6a-b96d-89ee13d924c0.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/122116557/234930056-de602866-64bd-4a45-b49b-ed965d043c91.png)
 
  2. If id not presents in the Database ,it enables the save and reset button
  
-  ![image](https://user-images.githubusercontent.com/115863529/232520659-1bd4b288-07ae-4964-9141-c2ed8ed582e5.png)
+  ![Screenshot (70)](https://user-images.githubusercontent.com/122116557/234930098-2a801cb9-09b1-49c0-8f16-f2faeae44424.png)
 
 #### reset
    
@@ -54,4 +54,5 @@ The internship assignment is to create a form for acccepting  data from user and
  
  ### Exmaple of Databsae photo
  
- ![image](https://user-images.githubusercontent.com/115863529/232522686-0361f11e-1c35-4355-beef-af4c28696aea.png)
+ ![Screenshot (67)](https://user-images.githubusercontent.com/122116557/234928636-a9df35c0-7b69-4ebb-9eab-bae243576edc.png)
+
